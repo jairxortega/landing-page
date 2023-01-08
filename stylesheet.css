@@ -14,6 +14,7 @@
 
 .header-links {
     display: flex;
+    text-align: right;
 }
 
 .header-links a {

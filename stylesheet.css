@@ -1,5 +1,6 @@
 .body {
-
+    padding: 0;
+    margin: 0;
 }
 
 .container {
@@ -21,3 +22,8 @@
     color: #e5e7eb;
     font-size: 18px;
 }
+
+.container-2 {
+    text-align: center;
+}
+

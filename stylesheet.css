@@ -8,7 +8,8 @@
     flex-direction: column;
 }
 
-.first-section {
+.navbar {
+    display: flex;
     background-color: #1f2937;
 }
 

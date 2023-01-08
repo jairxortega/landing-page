@@ -1,8 +1,10 @@
+.body {
+
+}
+
 .container {
-    background-color: #1f2937;
-    color: #e5e7eb;
-    font-size: 18px;
     display: flex;
+    flex-direction: column;
 }
 
 .second-header {
@@ -15,5 +17,6 @@
 .quote {
     color: #1f2937;
     font-size: 36px;
-    font-style: light italic;
+    font-style: italic;
+    font-weight: 200;
 }

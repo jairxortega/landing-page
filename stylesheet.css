@@ -1,6 +1,7 @@
 .body {
     padding: 0;
     margin: 0;
+    text-align: center;
 }
 
 .container {
@@ -8,9 +9,12 @@
     flex-direction: column;
 }
 
+/* Navbar */
+
 .navbar {
     display: flex;
     background-color: #1f2937;
+    justify-content: space-around;
 }
 
 .header-logo {
@@ -26,8 +30,10 @@
 .header-links a {
     color: #e5e7eb;
     font-size: 18px;
+    justify-content: space-around;
 }
 
+/* Second section */
 .container-2 {
     text-align: center;
 }

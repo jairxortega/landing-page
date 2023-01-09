@@ -30,7 +30,17 @@
 .header-links a {
     color: #e5e7eb;
     font-size: 18px;
-    justify-content: space-around;
+}
+
+/* Under Navbar */
+
+.container-two {
+    display: flex;
+    background-color: #1f2937;
+}
+
+.header h3 {
+    color: #f9faf8;
 }
 
 /* Second section */

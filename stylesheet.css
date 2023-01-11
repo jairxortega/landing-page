@@ -7,6 +7,7 @@
 .container {
     display: flex;
     flex-direction: column;
+    font-family: 'Hero New', sans-serif;
 }
 
 /* Navbar */
@@ -37,10 +38,6 @@
 .container-two {
     display: flex;
     background-color: #1f2937;
-}
-
-.header h3 {
-    color: #f9faf8;
 }
 
 /* Second section */

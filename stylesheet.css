@@ -7,7 +7,7 @@
 .container {
     display: flex;
     flex-direction: column;
-    font-family: 'Hero New', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 /* Navbar */

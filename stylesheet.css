@@ -15,7 +15,7 @@
     display: flex;
     background-color: #1f2937;
     justify-content: space-around;
-    padding: 20px;
+    padding: 18px;
 }
 
 .header-logo {
@@ -26,12 +26,13 @@
 .header-links {
     display: flex;
     text-align: right;
-    justify-content: space-around;
 }
 
 .header-links h6 {
     color: #e5e7eb;
     font-size: 18px;
+    font-weight: 200;
+    padding: 10px;
 }
 
 /* Under Navbar */

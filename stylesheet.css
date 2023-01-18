@@ -37,12 +37,20 @@
 
 /* Under Navbar */
 
-.container-two {
-    display: flex;
+.section-one {
     background-color: #1f2937;
     padding: 40px;
     color: #f9faf8;
+    display: flex;
+}
 
+.main-text {
+    font-size: 48px;
+}
+
+.image-box a {
+    border: #e5e7eb;
+    background-color: grey;
 }
 
 /* Second section */

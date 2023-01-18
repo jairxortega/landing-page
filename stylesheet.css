@@ -48,9 +48,13 @@
     font-size: 48px;
 }
 
-.image-box a {
+.image-box {
     border: #e5e7eb;
-    background-color: grey;
+    background-color: rgb(117, 118, 130);
+    height: 200px;
+    width: 700px;
+    color: #e5e7eb;
+    text-align: center;
 }
 
 /* Second section */

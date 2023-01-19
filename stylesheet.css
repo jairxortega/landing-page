@@ -42,6 +42,7 @@
     padding: 40px;
     color: #f9faf8;
     display: flex;
+    justify-content: center;
 }
 
 .main-text {
